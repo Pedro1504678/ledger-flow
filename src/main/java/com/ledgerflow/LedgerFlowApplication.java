@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LedgerFlowServiceApplication {
+public class LedgerFlowApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LedgerFlowServiceApplication.class, args);
+        SpringApplication.run(LedgerFlowApplication.class, args);
     }
-
 }
